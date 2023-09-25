@@ -1,4 +1,4 @@
-![265255132-37b6b016-0af4-48da-be8b-be7a93a8525f](https://github.com/mathan4/Mobile-Application-Development/assets/109868924/64e73118-867a-4034-aaab-c94400ad67ea)# Ex.No:1 To create a HelloWorld Activity using all lifecycles methods to display messages.
+# Ex.No:1 To create a HelloWorld Activity using all lifecycles methods to display messages.
 
 
 ## AIM:
